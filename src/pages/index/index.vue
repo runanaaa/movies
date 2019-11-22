@@ -22,7 +22,13 @@
 export default {
   data () {
     return {
-      title_name:"推荐"
+      title_name:"推荐",
+      grids:[
+        {title:" ",image:" "},
+        {title:" ",image:" "},
+        {title:" ",image:" "},
+        {title:" ",image:" "},
+      ]
     }
   },
   methods: {
