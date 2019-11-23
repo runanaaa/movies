@@ -10,7 +10,7 @@
 </i-grid>
  <i-panel >
     <view style="padding: 15px;">
-      <i-card v-for="item in top" :key="item" i-class="split" :extra="item.name" :thumb="item.image">
+      <i-card  v-for="item in top" :key="item" i-class="split" :extra="item.name" :thumb="item.image">
          <view slot="content">{{item.reason}}</view>
          <view slot="footer">{{item.type}}</view>
       </i-card>
