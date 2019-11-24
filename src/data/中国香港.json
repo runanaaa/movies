@@ -1,5 +1,5 @@
 [
-    {"name":"犯罪现场","type":"类型:犯罪/悬疑/惊悚","image":"/static/images/犯罪现场.jpg","reason":"推荐理由1"},
-    {"name":"大追捕","type":"类型:剧情/动作/犯罪","image":"/static/images/大追捕.jpg","reason":"推荐理由1"},
-    {"name":"小Q","type":"类型:剧情","image":"/static/images/小Q.jpg","reason":"推荐理由1"}
+    {"id":1,"name":"犯罪现场","type":"类型:犯罪/悬疑/惊悚","image":"/static/images/犯罪现场.jpg","reason":"推荐理由1","introduce":" "},
+    {"id":2,"name":"大追捕","type":"类型:剧情/动作/犯罪","image":"/static/images/大追捕.jpg","reason":"推荐理由1","introduce":" "},
+    {"id":3,"name":"小Q","type":"类型:剧情","image":"/static/images/小Q.jpg","reason":"推荐理由1","introduce":" "}
     ]

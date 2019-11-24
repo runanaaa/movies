@@ -4,6 +4,7 @@
     "pages/list/main",
     "pages/movie library/main",
     "pages/mine/main"
+    
   ],
   "window": {
     "backgroundTextStyle": "light",

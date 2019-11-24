@@ -1,0 +1,14 @@
+[
+    {"id":1,"name":"南方车站的聚会","type1":"类型：剧情/犯罪","image":"/static/images/南方车站的聚会.jpg","reason":"推荐理由","type":1,"latitude": 30.576413,"longitude": 114.339437},
+    {"id":2,"name":"你是凶手","type1":"类型：剧情/犯罪/悬疑","image":"/static/images/你是凶手.jpg","reason":"推荐理由","type":1,"latitude": 30.576413,"longitude": 114.339437},
+    {"id":3,"name":"长安道","type1":"类型：剧情/犯罪/悬疑","image":"/static/images/长安道.jpg","reason":"推荐理由","type":1,"latitude": 30.576413,"longitude": 114.339437},
+    {"id":4,"name":"大约在冬季","type1":"类型：剧情/爱情","image":"/static/images/大约在冬季.jpg","reason":"推荐理由:有哭有笑，满足地当一回看戏的傻子" ,"type":2,"latitude": 30.576413,"longitude": 114.339437},
+    {"id":5,"name":"小小的愿望","type1":"类型：剧情/喜剧","image":"/static/images/小小的愿望.jpg","reason":"推荐理由:捧腹之余带着一丝感动，还有一份对于青春，友情的怀恋","type":2,"latitude": 30.576413,"longitude": 114.339437},
+    {"id":6,"name":"受益人","type1":"类型：剧情/喜剧/爱情","image":"/static/images/受益人.jpg","reason":"推荐理由:爱情不应该只存在于想象和美化中，坦诚，才是相爱的基础","type":2,"latitude": 30.576413,"longitude": 114.339437},
+    {"id":7,"name":"海角七号","type1":"类型：剧情/爱情/喜剧","image":"/static/images/海角七号.jpg","reason":"推荐理由","type":3,"latitude": 30.576413,"longitude": 114.339437},
+    {"id":8,"name":"那些年我们一起追过的女孩","type1":"类型：剧情/喜剧/爱情","image":"/static/images/那些年我们一起追过的女孩.jpg","reason":"推荐理由","type":3,"latitude": 30.576413,"longitude": 114.339437},
+    {"id":9,"name":"我的少女时代","type1":"类型：喜剧/爱情","image":"/static/images/我的少女时代.jpg","reason":"推荐理由","type":3,"latitude": 30.576413,"longitude": 114.339437},
+    {"id":10,"name":"犯罪现场","type1":"类型:犯罪/悬疑/惊悚","image":"/static/images/犯罪现场.jpg","reason":"推荐理由1","type":4,"latitude": 30.576413,"longitude": 114.339437},
+    {"id":11,"name":"大追捕","type1":"类型:剧情/动作/犯罪","image":"/static/images/大追捕.jpg","reason":"推荐理由1","type":4,"latitude": 30.576413,"longitude": 114.339437},
+    {"id":12,"name":"小Q","type1":"类型:剧情","image":"/static/images/小Q.jpg","reason":"推荐理由1","type":4,"latitude": 30.576413,"longitude": 114.339437}
+]

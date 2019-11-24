@@ -1,5 +1,5 @@
 [
-    {"name":"大约在冬季","type":"类型：剧情/爱情","image":"/static/images/大约在冬季.jpg","reason":"推荐理由"},
-    {"name":"小小的愿望","type":"类型：剧情/喜剧","image":"/static/images/小小的愿望.jpg","reason":"推荐理由"},
-    {"name":"受益人","type":"类型：剧情/喜剧/爱情","image":"/static/images/受益人.jpg","reason":"推荐理由"}
+    {"id":1,"name":"大约在冬季","type":"类型：剧情/爱情","image":"/static/images/大约在冬季.jpg","reason":"推荐理由:有哭有笑，满足地当一回看戏的傻子"},
+    {"id":2,"name":"小小的愿望","type":"类型：剧情/喜剧","image":"/static/images/小小的愿望.jpg","reason":"推荐理由:捧腹之余带着一丝感动，还有一份对于青春，友情的怀恋"},
+    {"id":3,"name":"受益人","type":"类型：剧情/喜剧/爱情","image":"/static/images/受益人.jpg","reason":"推荐理由:爱情不应该只存在于想象和美化中，坦诚，才是相爱的基础"}
     ]

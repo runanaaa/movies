@@ -1,5 +1,5 @@
 [
-    {"name":"海角七号","type":"类型：剧情/爱情/喜剧","image":"/static/images/海角七号.jpg","reason":"推荐理由"},
-    {"name":"那些年我们一起追过的女孩","type":"类型：剧情/喜剧/爱情","image":"/static/images/那些年我们一起追过的女孩.jpg","reason":"推荐理由"},
-    {"name":"我的少女时代","type":"类型：喜剧/爱情","image":"/static/images/我的少女时代.jpg","reason":"推荐理由"}
+    {"id":1,"name":"海角七号","type":"类型：剧情/爱情/喜剧","image":"/static/images/海角七号.jpg","reason":"推荐理由","introduce":" "},
+    {"id":2,"name":"那些年我们一起追过的女孩","type":"类型：剧情/喜剧/爱情","image":"/static/images/那些年我们一起追过的女孩.jpg","reason":"推荐理由","introduce":" "},
+    {"id":3,"name":"我的少女时代","type":"类型：喜剧/爱情","image":"/static/images/我的少女时代.jpg","reason":"推荐理由","introduce":" "}
     ]

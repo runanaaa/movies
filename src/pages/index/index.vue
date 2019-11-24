@@ -15,26 +15,11 @@
   </swiper>
    <i-panel :title="title_name">
     <view style="padding: 15px;">
-       <i-card i-class="split" extra="少年的你" thumb="/static/images/少年的你.jpg">
-         <view slot="content">推荐理由</view>
-         <view slot="footer">类型：剧情/爱情/犯罪</view>
+       <i-card  v-for="item in top" :key="item" i-class="split" extra="item.name" :thumb="item.image">
+          <view slot="content">{{item.reason}}</view>
+         <view slot="footer">{{item.type}}</view>
       </i-card>
-      <i-card i-class="split" extra="我和我的祖国" thumb="/static/images/我和我的祖国.jpeg">
-         <view slot="content">推荐理由</view>
-         <view slot="footer">类型：剧情</view>
-      </i-card>
-      <i-card i-class="split" extra="中国机长"  thumb="/static/images/中国机长.jpg">
-         <view slot="content">推荐理由</view>
-         <view slot="footer">类型：剧情/灾难</view>
-      </i-card>
-      <i-card i-class="split" extra="冰雪奇缘2"  thumb="/static/images/冰雪奇缘2.jpg">
-         <view slot="content">推荐理由</view>
-         <view slot="footer">类型：动画/喜剧/冒险/美国</view>
-      </i-card>
-       <i-card i-class="split" extra="海上钢琴师"  thumb="/static/images/海上钢琴师.jpg">
-         <view slot="content">推荐理由</view>
-         <view slot="footer">类型：剧情/音乐/意大利</view>
-      </i-card>
+
     </view>
 </i-panel>
   </div>
@@ -59,6 +44,14 @@ export default {
       autoplay: true,
       interval: 5000,
       duration: 1000,
+        top:[
+      {"name":"少年的你","type":"类型：剧情/犯罪/爱情","image":"/static/images/少年的你.jpg","reason":"推荐理由"},
+      {"name":"我和我的祖国","type":"类型：剧情","image":"/static/images/我和我的祖国.jpeg","reason":"推荐理由"},
+      {"name":"中国机长","type":"类型：剧情/灾难","image":"/static/images/中国机长.jpg","reason":"推荐理由"},
+      {"name":"冰雪奇缘2","type":"类型：动画/喜剧/冒险/美国","image":"/static/images/冰雪奇缘2.jpg","reason":"推荐理由"},
+      {"name":"海上钢琴师","type":"类型：剧情/音乐/意大利","image":"/static/images/海上钢琴师.jpg","reason":"推荐理由"},
+    
+      ]
     }
   },
   methods: {

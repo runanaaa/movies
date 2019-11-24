@@ -1,8 +1,5 @@
 [
-    {"name":"南方车站的聚会","type":"类型：剧情/犯罪","image":"/static/images/南方车站的聚会.jpg","reason":"推荐理由"},
-    {"name":"你是凶手","type":"类型：剧情/犯罪/悬疑","image":"/static/images/你是凶手.jpg","reason":"推荐理由"},
-    {"name":"长安道","type":"类型：剧情/犯罪/悬疑","image":"/static/images/长安道.jpg","reason":"推荐理由"}
-
-    
-    
+    {"id":1,"name":"南方车站的聚会","type":"类型：剧情/犯罪","image":"/static/images/南方车站的聚会.jpg","reason":"推荐理由","introduce":" "},
+    {"id":2,"name":"你是凶手","type":"类型：剧情/犯罪/悬疑","image":"/static/images/你是凶手.jpg","reason":"推荐理由","introduce":" "},
+    {"id":3,"name":"长安道","type":"类型：剧情/犯罪/悬疑","image":"/static/images/长安道.jpg","reason":"推荐理由","introduce":" "}
     ]
