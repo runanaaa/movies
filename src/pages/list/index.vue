@@ -1,12 +1,12 @@
 <template>
   <div>
      <i-card v-for="item in list" :key="item" i-class="split" :extra="item.name" :thumb="item.image">
-         <view slot="content">{{item.reason}}</view>
-         <view slot="footer">{{item.type}}</view>
+         <view slot="content">推荐原因：{{item.reason}}</view>
+         <view slot="footer">类型：{{item.type}}</view>
       </i-card>
   </div>
 </template>
-<script>
+<script>              
 export default {
   data () {
     return {

@@ -29,7 +29,7 @@
 </template>
 <script>
 import card from '@/components/card'
-import top from '@/data/top.json'
+import top from '@/data/top.json'      
 export default {
   data () {
     return {

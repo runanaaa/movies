@@ -1,0 +1,14 @@
+[
+    {"id":1,"name":"南方车站的聚会","category":"最新","type":"剧情/犯罪","image":"/static/images/南方车站的聚会.jpg","reason":"黑色荒诞和暴力美学的佳作","mold":1},
+    {"id":2,"name":"你是凶手","category":"最新","type":"剧情/犯罪/悬疑","image":"/static/images/你是凶手.jpg","reason":"完成度很高的悬疑片，节奏快，不拖泥带水","mold":1},
+    {"id":3,"name":"长安道","category":"最新","type":"剧情/犯罪/悬疑","image":"/static/images/长安道.jpg","reason":"见过人性的原罪，却依然相信人性","mold":1},
+    {"id":1,"name":"大约在冬季","category":"内地","type":"剧情/爱情","image":"/static/images/大约在冬季.jpg","reason":"有哭有笑，满足地当一回看戏的傻子","mold":2},
+    {"id":2,"name":"小小的愿望","category":"内地","type":"剧情/喜剧","image":"/static/images/小小的愿望.jpg","reason":"捧腹之余带着一丝感动，还有一份对于青春，友情的怀恋","mold":2},
+    {"id":3,"name":"受益人","category":"内地","type":"剧情/喜剧/爱情","image":"/static/images/受益人.jpg","reason":"爱情不应该只存在于想象和美化中，坦诚，才是相爱的基础","mold":2},
+    {"id":1,"name":"海角七号","category":"中国台湾","type":"剧情/爱情/喜剧","image":"/static/images/海角七号.jpg","reason":"人生来平凡，爱情生来伟大 ","mold":4},
+    {"id":2,"name":"那些年我们一起追过的女孩","category":"中国台湾","type":"剧情/喜剧/爱情","image":"/static/images/那些年我们一起追过的女孩.jpg","reason":"推荐理由:有一种回忆叫那些年，有一种初恋叫沈佳宜，有一种青春叫遇见你 ","mold":4},
+    {"id":3,"name":"我的少女时代","category":"中国台湾","type":"喜剧/爱情","image":"/static/images/我的少女时代.jpg","reason":"明明是一件件小事，因为真实，所以美好","mold":4},
+    {"id":1,"name":"犯罪现场","category":"中国香港","type":"犯罪/悬疑/惊悚","image":"/static/images/犯罪现场.jpg","reason":"剧情很充实，翻转很精彩","mold":3},
+    {"id":2,"name":"大追捕","category":"中国香港","type":"剧情/动作/犯罪","image":"/static/images/大追捕.jpg","reason":"以凶案开篇，比较惊悚，主线在隐含地讲父爱","mold":3},
+    {"id":3,"name":"小Q","category":"中国香港","type":"剧情","image":"/static/images/小Q.jpg","reason":"你是我的眼，我是你的腿","mold":3}
+    ]
