@@ -1,5 +1,7 @@
 {
     "navigationBarTitleText": "电影推荐",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTextStyle": "white",
     "usingComponents": {
         "i-grid": "../../../../static/dist/grid/index",
         "i-grid-item": "../../../../static/dist/grid-item/index",

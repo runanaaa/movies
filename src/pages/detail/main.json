@@ -1,5 +1,5 @@
 {
-    "navigationBarTitleText": "我要推荐",
+    "navigationBarTitleText": "电影详情",
     "navigationBarBackgroundColor": "#000000",
     "navigationBarTextStyle": "white",
     "usingComponents": {
@@ -11,10 +11,7 @@
         "i-grid-icon": "../../../../static/dist/grid-icon/index",
         "i-grid-label": "../../../../static/dist/grid-label/index",
         "i-notice-bar": "../../../../static/dist/notice-bar/index",
-        "i-avatar": "../../../../static/dist/avatar/index",
-        "i-cell-group": "../../../../static/dist/cell-group/index",
-        "i-cell": "../../../../static/dist/cell/index",
-        "i-input": "../../../../static/dist/input/index",
-        "i-toast": "../../../../static/dist/toast/index"
+        "i-cell-group": "../../../static/dist/cell-group/index",
+        "i-cell": "../../../../static/dist/cell/index"
     }
-  }
+}

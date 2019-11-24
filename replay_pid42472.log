@@ -1,0 +1,31 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 1
+JvmtiExport can_post_on_exceptions 0
+# 149 ciObject found
+ciMethod java/lang/Object <init> ()V 4097 1 510097 0 96
+ciMethod java/lang/Object hashCode ()I 4097 1 512 0 -1
+ciMethod java/lang/Object equals (Ljava/lang/Object;)Z 2049 1 8497 0 -1
+ciMethod java/lang/String <init> ([CZ)V 4097 1 13032 0 256
+ciMethod java/lang/String length ()I 4097 1 176409 0 64
+ciMethod java/lang/String getChars ([CI)V 2049 1 5433 0 0
+ciMethod java/lang/String equals (Ljava/lang/Object;)Z 20849 18009 3609 0 -1
+ciMethod java/lang/String hashCode ()I 3073 32105 2539 0 288
+ciMethod java/lang/String concat (Ljava/lang/String;)Ljava/lang/String; 2049 1 5380 0 992
+ciMethod java/lang/String replace (CC)Ljava/lang/String; 4225 263033 1367 0 1152
+ciMethod java/lang/ClassLoader getPackage (Ljava/lang/String;)Ljava/lang/Package; 2049 1 5376 0 0
+ciMethod java/lang/System arraycopy (Ljava/lang/Object;ILjava/lang/Object;II)V 89089 1 11136 0 -1
+ciMethod java/util/Map get (Ljava/lang/Object;)Ljava/lang/Object; 0 0 1 0 -1
+ciMethod java/util/HashMap hash (Ljava/lang/Object;)I 16401 1 67638 0 160
+ciMethod java/util/HashMap get (Ljava/lang/Object;)Ljava/lang/Object; 4097 1 20007 0 672
+ciMethod java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 16913 1505 18504 0 544
+ciMethod java/util/HashMap put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object; 19153 1 22660 0 -1
+ciMethod java/lang/Math min (II)I 4097 1 50861 0 -1
+ciMethod java/util/Arrays copyOf ([CI)[C 4097 1 13870 0 480
+ciMethodData java/lang/String length ()I 2 176409 orig 264 152 98 135 90 0 0 0 0 24 60 148 24 0 0 0 0 32 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 201 120 21 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 0 0 0 0 0 0 0 0 data 0 oops 0
+ciMethodData java/lang/Object <init> ()V 2 510097 orig 264 152 98 135 90 0 0 0 0 128 4 148 24 0 0 0 0 32 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 137 52 62 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 0 0 0 0 0 0 0 0 data 0 oops 0
+ciMethod java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 0 0 1 0 -1
+ciMethodData java/lang/String hashCode ()I 2 70203 orig 264 152 98 135 90 0 0 0 0 184 79 148 24 0 0 0 0 152 1 0 0 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 173 15 0 0 89 67 0 0 113 20 8 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 120 0 0 0 255 255 255 255 7 0 6 0 0 0 0 0 data 15 0x60007 0x280 0x78 0x5eb 0xe0007 0x1 0x58 0x5ea 0x1e0007 0x5ea 0x38 0x10256 0x2d0003 0x10256 0xffffffffffffffe0 oops 0
+ciMethod java/lang/Package getSystemPackage (Ljava/lang/String;)Ljava/lang/Package; 769 1 1287 0 0
+ciMethod java/lang/Package defineSystemPackage (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Package; 0 0 1 0 -1
+ciMethod java/lang/Package getSystemPackage0 (Ljava/lang/String;)Ljava/lang/String; 2057 1 257 0 -1
+ciMethodData java/uti
