@@ -10,7 +10,7 @@
 </i-grid>
 <i-panel title="全部">
     <view style="padding: 15px;">
-      <i-card v-for="item in top" :key="item"  i-class="split" :extra="item.name" :thumb="item.image">
+      <i-card  v-for="item in top" :key="item"  i-class="split" :extra="item.name" :thumb="item.image">
          <view slot="content">推荐原因：{{item.reason}}</view>
          <view slot="footer">类型：{{item.type}}</view>
       </i-card>

@@ -8,6 +8,7 @@
     </view>
     <i-cell-group>
     <i-cell title="我要推荐" is-link url="/pages/comment/main"></i-cell>
+    
     <i-cell title="接收通知">
         <switch slot="footer" checked />
     </i-cell>
