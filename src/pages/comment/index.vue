@@ -8,7 +8,7 @@
     </view>
     <i-panel title="我要推荐电影">
       <i-input :value="name" @change="changeName($event)" title="电影名称" autofocus placeholder="请输入电影名称" maxlength="20" />
-      <i-input :value="type" @change="changeAddress($event)" title="电影类型" placeholder="请输入电影类型" maxlength="30" />
+      <i-input :value="type" @change="changeType($event)" title="电影类型" placeholder="请输入电影类型" maxlength="30" />
       <i-input :value="reason" @change="changeReason($event)" title="推荐理由" placeholder="请输入推荐理由" maxlength="50" />
     </i-panel>
     <i-button @click="handleClick" type="warning" size="default">我要推荐</i-button>
@@ -28,15 +28,15 @@ export default {
      changeName (event) {
       this.name = event.mp.detail.detail.value
     },
-    changeReason (event) {
-      this.reason = event.mp.detail.detail.value
-    },
     changeType (event) {
       this.type = event.mp.detail.detail.value
     },
+    changeReason (event) {
+      this.reason= event.mp.detail.detail.value
+    },
     handleClick () {
       console.log("您成功点击")
-      if (this.name && this.reason && this.type) {
+      if (this.name && this.type && this.reason) {
         wx.showToast({
           title: '推荐了' + this.name,
           icon: 'success',
